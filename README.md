@@ -17,7 +17,7 @@
 ## ✍🏻️ [Velog](https://velog.io/@heiswicked)
 - :fire: [Torch's Breath Velog Series](https://velog.io/@heiswicked/series/Torchs-Breath)
 - :octocat: [Torch's Breath on Github](https://github.com/renslightsaber/Torchs-Breath)
-- :desktop_computer: [M1 Setting Series](https://velog.io/@heiswicked/series/M1Settings)
+- 🍏 [M1 Setting Series](https://velog.io/@heiswicked/series/M1Settings)
 
 ### Interested in
 - NLP Task / Competition :nerd_face:
