@@ -4,8 +4,8 @@
 	
   </div>
 
-## :lab_coat: About me
-- :goggles: NLP Engineer
+## :goggles: About me
+- :lab_coat: NLP Engineer
 - 👨🏻‍🎓️ Studied Data Science (July, 2021 - Dec, 2021)
 - 👨🏼‍🏫️ Worked as LM and Lecturer in [FASTCAMPUS](https://fastcampus.co.kr/) (Jan, 2022 - Dec, 2022)
   - :2nd_place_medal: [[Kaggle] Feedback Prize - English Language Learning](https://www.kaggle.com/competitions/feedback-prize-english-language-learning)
