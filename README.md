@@ -11,7 +11,10 @@
 - :nerd_face: TTS(main-interest), Voice-Conversion, NLP, LLM.
 - 🤗 accelerate
 - :fire: Pytorch
-- ⚡ Pytorch Lightning
+- ⚡ lightning
+
+## Recently
+- :mega: [elu-lab/FASTSpeech2](https://github.com/elu-lab/FASTSPeech2/tree/main)
 
 ## Careers & Awards
 - 👨🏻‍🎓️ Studied Data Science (July, 2021 - Dec, 2021)
