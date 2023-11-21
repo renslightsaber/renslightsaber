@@ -9,9 +9,9 @@
 
 ## Research Interest
 - :nerd_face: TTS(main-interest), Voice-Conversion, NLP, LLM.
-- 🤗 accelerate
-- :fire: Pytorch
-- ⚡ lightning
+- 🤗 [accelerate](https://github.com/huggingface/accelerate)
+- :fire: [Pytorch](https://pytorch.org/)
+- ⚡ [lightning](https://lightning.ai/)
 
 ## Recently
 - :mega: [elu-lab/FASTSpeech2](https://github.com/elu-lab/FASTSPeech2/tree/main)
