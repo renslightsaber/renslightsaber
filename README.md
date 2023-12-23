@@ -5,7 +5,7 @@
   </div>
 
 ## :goggles: About me
-- :lab_coat: TTS Researcher @ [CHUNG-ANG UNIVERSITY Explainable Language Understanding (ELU) Lab](https://www.elulab.kr/#/en) (2023.08 ~)
+- :lab_coat: TTS AI Researcher @ [CHUNG-ANG UNIVERSITY Explainable Language Understanding (ELU) Lab](https://www.elulab.kr/#/en) (2023.08 ~)
 
 ## Research Interest
 - :nerd_face: TTS(main-interest), Voice-Conversion, NLP, LLM.
