@@ -4,11 +4,16 @@
 	
   </div>
 
+*As much as we express Gratitude, we become kinder, As much as we convey our apologies, we gain wisdom,*       
+*As much as we say our farewells, we understand Love, And as much as we shoveled, we come to know the papers 🔥*        
+
 ## :goggles: About me
-- :lab_coat: TTS AI Researcher @ [CHUNG-ANG UNIVERSITY Explainable Language Understanding (ELU) Lab](https://www.elulab.kr/#/en) (2023.08 ~)
+- :lab_coat: M.S. in AI Applications, Graduate School of Artificial Intelligence, CHUNG-ANG University (Seoul, Korea)
+- Resaerching in TTS @ [CHUNG-ANG UNIVERSITY Explainable Language Understanding (ELU) Lab](https://www.elulab.kr/#/en) (2023.08 ~)  
 
 ## Research Interest
-- :nerd_face: TTS(main-interest), Voice-Conversion, NLP, LLM.
+- 🤓 TTS(main-interest)
+- 🦙 LLM/NLP
 - 🤗 [accelerate](https://github.com/huggingface/accelerate)
 - :fire: [Pytorch](https://pytorch.org/)
 - ⚡ [lightning](https://lightning.ai/)
