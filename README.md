@@ -9,7 +9,7 @@
 
 ## :goggles: About me
 - :lab_coat: M.S. in AI Applications, Graduate School of Artificial Intelligence, CHUNG-ANG University (Seoul, Korea)
-- Resaerching in TTS @ [CHUNG-ANG UNIVERSITY Explainable Language Understanding (ELU) Lab](https://www.elulab.kr/#/en) (2023.08 ~)  
+- 🎙️🎧 Resaerching in TTS @ [CHUNG-ANG UNIVERSITY Explainable Language Understanding (ELU) Lab](https://www.elulab.kr/#/en) (2023.08 ~)  
 
 ## Research Interest
 - 🤓 TTS(main-interest): Researching ... 
