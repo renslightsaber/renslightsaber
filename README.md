@@ -4,8 +4,9 @@
 	
   </div>
 
-*As much as we express Gratitude, we become kinder, As much as we convey our apologies, we gain wisdom,*       
-*As much as we say our farewells, we understand Love, And as much as we shoveled, we come to know the papers 🔥*        
+
+*As much as we express Gratitude, we become kinder* 🤗, *As much as we convey our apologies, we gain wisdom* 👨🏻‍🎓️,       
+*As much as we say our farewells, we understand Love* ✈️, *And as much as we shoveled, we come to know the papers* 🔥        
 
 ## :goggles: About me
 - :lab_coat: M.S. in AI Applications, Graduate School of Artificial Intelligence, CHUNG-ANG University (Seoul, Korea)
