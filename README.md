@@ -12,7 +12,7 @@
 - Resaerching in TTS @ [CHUNG-ANG UNIVERSITY Explainable Language Understanding (ELU) Lab](https://www.elulab.kr/#/en) (2023.08 ~)  
 
 ## Research Interest
-- 🤓 TTS(main-interest)
+- 🤓 TTS(main-interest): Researching ... 
 - 🦙 LLM/NLP
 - 🤗 [accelerate](https://github.com/huggingface/accelerate)
 - :fire: [Pytorch](https://pytorch.org/)
