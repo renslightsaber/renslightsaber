@@ -20,7 +20,8 @@
 - ⚡ [lightning](https://lightning.ai/)
 
 ## Recently
-- :mega: [ddpm_e](https://github.com/renslightsaber/ddpm_e)
+- :hamster: [ddpm_e](https://github.com/renslightsaber/ddpm_e)
+- :mega: [fastspeech2_a](https://github.com/elu-lab/fastspeech2_a)
 
 ## Careers & Awards
 - 👨🏻‍🎓️ Studied Data Science (July, 2021 - Dec, 2021)
