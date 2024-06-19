@@ -9,7 +9,7 @@
 *As much as we say our farewells, we understand Love* ✈️, *And as much as we shoveled, we come to know the papers* 🔥        
 
 ## :goggles: About me
-- 👨🏻‍🎓️ M.S Student, TTS Researcher in Graduate School of Artificial Intelligence, CHUNG-ANG University (Seoul, Korea) (2023.09 ~)  
+- 👨🏻‍🎓️ M.S Student, TTS Researcher in Graduate School of Artificial Intelligence, CHUNG-ANG University (Seoul, Korea)
 - 🤖 [Explainable Language Understanding (ELU) Lab](https://www.elulab.kr/#/en) (2023.08 ~)  
 
 ## Research Interest
