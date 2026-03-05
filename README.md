@@ -14,10 +14,10 @@
 
 ## Projects
 - 🏢 (Industry-University Cooperation) Controllable Speech Synthesis
-- :hamster: [ddpm_e](https://github.com/renslightsaber/ddpm_e): [`DDPM` (Denoising Diffusion Probabilistic Models)](https://arxiv.org/abs/2006.11239) 🔥Pytorch Code Implementation.
-- 🎙️ [fastspeech2_a](https://github.com/elu-lab/fastspeech2_a): [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) 🔥Pytorch Code Implementation.
-- 🎙️ [FASTSPeech2](https://github.com/elu-lab/FASTSPeech2): [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) 🔥Pytorch Code Implementation for 🇰🇷 Korean, 🇩🇪German and 🇺🇸English.
-- 🍵 [matcha_tts_e](https://github.com/elu-lab/matcha_tts_e): [Matcha-TTS: A fast TTS architecture with conditional flow matching](https://huggingface.co/papers/2309.03199) ⚡Lightning Code Implementation.
+- :hamster: [ddpm_e](https://github.com/renslightsaber/ddpm_e): [`DDPM` (Denoising Diffusion Probabilistic Models)](https://arxiv.org/abs/2006.11239) 🔥Pytorch Code Reimplementation and Reproducibility Validation
+- 🎙️ [FASTSPeech2](https://github.com/elu-lab/FASTSPeech2): [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) 🔥Pytorch Code Reimplementation and Reproducibility Validation; IPA-based trained for 🇰🇷 Korean, 🇩🇪German and 🇺🇸English.
+- 🎙️ [fastspeech2_a](https://github.com/elu-lab/fastspeech2_a): [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) 🔥Pytorch Code Reimplementation and Reproducibility Validation; ARPHABET-based trained for 🇺🇸English.
+- 🍵 [matcha_tts_e](https://github.com/elu-lab/matcha_tts_e): [Matcha-TTS: A fast TTS architecture with conditional flow matching](https://huggingface.co/papers/2309.03199) ⚡Lightning Code Reimplementation and Reproducibility Validation.
 - 🇰🇷 Construction of a Korean Speech Dataset with Emotional and Paraverbal Expressions.
 
 ## Papers
