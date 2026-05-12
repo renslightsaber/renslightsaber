@@ -6,7 +6,8 @@
 ## :goggles: About me
 - AI Researcher  working on TTS, Speech, Voice 
 - 👨🏻‍🎓️ M.S. in Graduate School of Artificial Intelligence, CHUNG-ANG University (Seoul, Korea)
-- 🤖 [Explainable Language Understanding (ELU) Lab](https://www.elulab.kr/#/en) (2023.08 ~)  
+- 🤖 [Explainable Language Understanding (ELU) Lab](https://www.elulab.kr/#/en) (2023.08 ~ 2026.02)
+- :goggles: Senior Voice AI Engineer (2026.05 ~ )  
 
 ## Research Interest & Skills
 - 🥽 Research Interest: 🎙️TTS, 🗣️VC, 🎧TSE, 🦙Audio/Speech Language Model(Audio-LLM)
